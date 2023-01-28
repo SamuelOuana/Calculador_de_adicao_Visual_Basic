@@ -1,0 +1,12 @@
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\calculadoraSimples\bin\Debug\calculadoraSimples.exe
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\calculadoraSimples\bin\Debug\calculadoraSimples.pdb
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\calculadoraSimples\bin\Debug\calculadoraSimples.xml
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\calculadoraSimples\obj\x86\Debug\calculadoraSimples.Form1.resources
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\calculadoraSimples\obj\x86\Debug\calculadoraSimples.Resources.resources
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\calculadoraSimples\obj\x86\Debug\calculadoraSimples.vbproj.GenerateResource.Cache
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\calculadoraSimples\obj\x86\Debug\calculadoraSimples.exe
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\calculadoraSimples\obj\x86\Debug\calculadoraSimples.xml
+C:\Users\SMOUANA\AppData\Local\Temporary Projects\calculadoraSimples\obj\x86\Debug\calculadoraSimples.pdb
+E:\Biblioteca E\CIG\Programacao\Visual Basic\calculadoraSimples\calculadoraSimples\obj\x86\Debug\calculadoraSimples.exe
+E:\Biblioteca E\CIG\Programacao\Visual Basic\calculadoraSimples\calculadoraSimples\obj\x86\Debug\calculadoraSimples.xml
+E:\Biblioteca E\CIG\Programacao\Visual Basic\calculadoraSimples\calculadoraSimples\obj\x86\Debug\calculadoraSimples.pdb
